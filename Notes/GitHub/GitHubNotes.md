@@ -1,7 +1,7 @@
 # GitHub Flavored Markdown Notes
 > Notes about GitHub files
 
-Back to [My Learning Log](../../Readme.md)
+Back to [My Learning Log](../../README.md)
 
 ## Accounts
 

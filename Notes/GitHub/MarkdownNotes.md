@@ -5,7 +5,7 @@
 ```
 [Contribution guidelines for this project](docs/CONTRIBUTING.md)
 ```
-Back to [My Learning Log](../../Readme.md)
+Back to [My Learning Log](../../README.md)
 
 ## Lists
 
