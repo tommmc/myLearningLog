@@ -18,4 +18,6 @@
 | Python |[Getting started with Python: Introduction](https://capula.percipio.com/courses/b4b2d402-350a-4b98-8e38-cd759a5444a5)|`Complete`||
 | Elastic Stack | [Kibana & Reporting Capabilities](https://capula.percipio.com/courses/ec4439c0-334e-11e8-91b5-13265b383f95/videos/620bb1d0-3da2-11e8-8fcf-d1c6bff50167) | [Badge](https://skillsoft.digitalbadges.skillsoft.com/0a15aa0d-1048-403c-aa0e-6d1d7e48404d) ||
 | Unix |  |  | [Notes for Unix](Notes/Unix/) |
-
+| Build applications with Azure DevOps | [Create a build pipeline with Azure Pipelines](https://docs.microsoft.com/en-us/learn/modules/create-a-build-pipeline/7-publish-build-result) | 100% |  |
+| Build applications with Azure DevOps | [Implement a code workflow in your build pipeline by using Git and GitHub](https://docs.microsoft.com/en-us/learn/modules/implement-code-workflow/) | 100% |  |
+| Build applications with Azure DevOps | [Run-quality-tests-build-pipeline](https://docs.microsoft.com/en-us/learn/modules/run-quality-tests-build-pipeline/) | 60% |  |
