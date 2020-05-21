@@ -17,4 +17,5 @@
 | Azure Fundementals | [Azure Fundementals: IoT & AI](https://capula.percipio.com/courses/a85ac6f4-f09f-4990-bc4e-dcd69ba4d1cd) | [Badge](https://skillsoft.digitalbadges.skillsoft.com/b2dfc6a9-3579-46bb-8a8f-45076a2f48ea) |  |
 | Python |[Getting started with Python: Introduction](https://capula.percipio.com/courses/b4b2d402-350a-4b98-8e38-cd759a5444a5)|`Complete`||
 | Elastic Stack | [Kibana & Reporting Capabilities](https://capula.percipio.com/courses/ec4439c0-334e-11e8-91b5-13265b383f95/videos/620bb1d0-3da2-11e8-8fcf-d1c6bff50167) | [Badge](https://skillsoft.digitalbadges.skillsoft.com/0a15aa0d-1048-403c-aa0e-6d1d7e48404d) ||
+| Unix |  |  | [Notes for Unix](Notes/Unix/) |
 
